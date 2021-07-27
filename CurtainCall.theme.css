@@ -59,14 +59,14 @@ I hope.
   /* Other variables */
   --window-padding: 0px; /* Spacing around the Discord window | DEFAULT: 0px */
   --window-roundness: 0px; /* Roundness of Discord | DEFAULT: 0px */
-  --scrollbar-colour: rgba(155,164,185,1); /* DEFAULT: rgba(155,164,185,1) */
-  --link-colour: #FFFFFF; /* DEFAULT: #FFFFFF */
+  --scrollbar-colour: rgba(85,26,139,0.69); /* DEFAULT: rgba(85,26,139,0.69) */
+  --link-colour: #A020F0; /* DEFAULT: #A020F0 */
 
   /*
     Visit https://fonts.google.com and select one to your liking.
     Now just follow this tutorial: https://imgur.com/a/CNbw7xC
   */
-  --font: 'Josefin Slab';
+  --font: 'Tourney', cursive;
 
   /* Do not touch */
   --update-notice-1: none;
