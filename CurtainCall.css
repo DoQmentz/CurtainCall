@@ -182,7 +182,7 @@ I....I probably need to know what the f**k I'm doing first. */
 }
 
 ::-webkit-input-placeholder, body, button, input, select, textarea {
-  font-family: var(--font, "Whitney");
+  font-family: var(--font, "Tourney");
 }
 
 #app-mount .tooltip-2QfLtc {
