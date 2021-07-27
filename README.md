@@ -1,5 +1,4 @@
-# Curtain Call
-BetterDiscord Custom Theme
+# Curtain Call (a soon-to-be BetterDiscord theme)
 
 Trying to create a new BetterDiscord theme for everybody to use.
 
