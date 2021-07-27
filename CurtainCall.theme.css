@@ -1,6 +1,10 @@
 /** This is (also) essentially copied from Gibbu's "FrostedGlass" until I'm more (or even somewhat) proficient in coding CSS. 
 
-So far, I've changed the core values of most things, aswell as the main image, colour scheme and minute bug/typo fixes. There's more to come.
+So far, I've changed the core values of most things, aswell as the main image, colour scheme and minute bug/typo fixes. 
+
+Also added a new font to fit the theme better. But you're free to choose what you want.
+
+There's more to come.
 
 I hope.
 
@@ -13,6 +17,8 @@ I hope.
  * @description An epic shot of Jhin (and Camille) from the animation of "Awaken". Theme kept in purple-ish and blue-ish colours with bits of black and white.
  * @source https://github.com/DoQmentz/CurtainCall
 */
+
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
 
 @import url("https://doqmentz.github.io/CurtainCall/CurtainCall.css");
 
@@ -66,7 +72,7 @@ I hope.
     Visit https://fonts.google.com and select one to your liking.
     Now just follow this tutorial: https://imgur.com/a/CNbw7xC
   */
-  --font: 'Tourney', cursive;
+  --font: 'Reggae One', cursive;
 
   /* Do not touch */
   --update-notice-1: none;
