@@ -120,7 +120,7 @@ I....I probably need to know what the f**k I'm doing first. */
   margin-top: 0;
 }
 #app-mount .botText-1526X_ {
-  font-weight: 400;
+  font-weight: 300;
 }
 #app-mount .botTagInvert-18-95s {
   color: rgb(var(--gradient-primary));
@@ -183,12 +183,13 @@ I....I probably need to know what the f**k I'm doing first. */
 
 ::-webkit-input-placeholder, body, button, input, select, textarea {
   font-family: var(--font, 'Reggae One', cursive);
+  font-weight: 300;
 }
 
 #app-mount .tooltip-2QfLtc {
   color: var(--text-normal);
   text-align: center;
-  font-weight: 400;
+  font-weight: 300;
 }
 #app-mount .tooltipPrimary-1d1ph4 {
   background: var(--gradient);
@@ -753,7 +754,7 @@ I....I probably need to know what the f**k I'm doing first. */
   margin-top: 0;
 }
 #app-mount .member-3-YXUe.selected-aXhQR6 .botText-1526X_ {
-  font-weight: 800;
+  font-weight: 900;
 }
 #app-mount .member-3-YXUe.selected-aXhQR6 .premiumIcon-1rDbWQ {
   color: var(--text-normal);
