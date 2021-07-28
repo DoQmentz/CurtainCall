@@ -18,13 +18,13 @@ I....I probably need to know what the f**k I'm doing first. */
   --gradient-90: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.9), rgba(var(--gradient-secondary), 0.9));
   --text-shadow: 1;
   --chat-embed: var(--background-secondary);
-  --discord-green: 67,181,129;
-  --discord-yellow: 219,171,9;
-  --discord-red: 215,58,73;
-  --discord-purple: 89,54,149;
-  --discord-invisible: 117,128,142;
-  --discord-nitro: 255,115,250;
-  --discord-blurple: 114,137,218;
+  --discord-green: 50,205,50;
+  --discord-yellow: 238,238,0;
+  --discord-red: 238,0,0;
+  --discord-purple: 85,26,139;
+  --discord-invisible: 205,193,197;
+  --discord-nitro: 255,20,147;
+  --discord-blurple: 72,61,139;
   --discord-spotify: 29,185,84;
   --discord-twitch: 89,54,149;
   --discord-xbox: 16,124,16;
@@ -120,7 +120,7 @@ I....I probably need to know what the f**k I'm doing first. */
   margin-top: 0;
 }
 #app-mount .botText-1526X_ {
-  font-weight: 600;
+  font-weight: 400;
 }
 #app-mount .botTagInvert-18-95s {
   color: rgb(var(--gradient-primary));
@@ -182,13 +182,13 @@ I....I probably need to know what the f**k I'm doing first. */
 }
 
 ::-webkit-input-placeholder, body, button, input, select, textarea {
-  font-family: var(--font, 'Tourney', cursive);
+  font-family: var(--font, 'Reggae One', cursive);
 }
 
 #app-mount .tooltip-2QfLtc {
   color: var(--text-normal);
   text-align: center;
-  font-weight: 600;
+  font-weight: 400;
 }
 #app-mount .tooltipPrimary-1d1ph4 {
   background: var(--gradient);
@@ -753,7 +753,7 @@ I....I probably need to know what the f**k I'm doing first. */
   margin-top: 0;
 }
 #app-mount .member-3-YXUe.selected-aXhQR6 .botText-1526X_ {
-  font-weight: 900;
+  font-weight: 800;
 }
 #app-mount .member-3-YXUe.selected-aXhQR6 .premiumIcon-1rDbWQ {
   color: var(--text-normal);
